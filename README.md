@@ -4,5 +4,8 @@
 - 各自の責任でご使用ください
 
 ## 使用方法
-- curl --silent --show-error --location https://raw.githubusercontent.com/matsuura-tomoya/secretlint-setup/main/<〇〇> | bash
-- <〇〇> には使用するファイル名を指定します。
+ターミナル上で以下のコマンドを実行
+
+```curl --show-error --location https://raw.githubusercontent.com/matsuura-tomoya/secretlint-setup/main/<〇〇> | bash```
+
+※ <〇〇> には使用するshファイルを指定します
