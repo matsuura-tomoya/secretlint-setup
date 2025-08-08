@@ -8,4 +8,4 @@
 
 ```curl --show-error --location https://raw.githubusercontent.com/matsuura-tomoya/secretlint-setup/main/<〇〇> | bash```
 
-※ <〇〇> には使用するshファイルを指定します
+※ <〇〇> に使用するshファイルを指定します
